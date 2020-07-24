@@ -127,6 +127,5 @@ if(!module.parent) {
         }
     } else {
         printUsage();
-        return(0);
     }
 }

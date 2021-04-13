@@ -127,6 +127,6 @@ if(!module.parent) {
         }
     } else {
         printUsage();
-        return(0);
+        // return(0);
     }
 }
